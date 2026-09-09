@@ -1,0 +1,5 @@
+C:\Users\Rainbow\Desktop\学习\算法分析\实验\实验一\实验一\obj\Debug\实验1.1.csproj.CoreCompileInputs.cache
+C:\Users\Rainbow\Desktop\学习\算法分析\实验\实验一\实验一\bin\Debug\实验一.exe
+C:\Users\Rainbow\Desktop\学习\算法分析\实验\实验一\实验一\bin\Debug\实验一.pdb
+C:\Users\Rainbow\Desktop\学习\算法分析\实验\实验一\实验一\obj\Debug\实验一.exe
+C:\Users\Rainbow\Desktop\学习\算法分析\实验\实验一\实验一\obj\Debug\实验一.pdb
